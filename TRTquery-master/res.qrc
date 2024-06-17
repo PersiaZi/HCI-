@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>resource/Line1.png</file>
+        <file>resource/Line2.png</file>
+        <file>resource/Line3.png</file>
+        <file>resource/Line4.png</file>
+        <file>resource/Line5.png</file>
+        <file>resource/Line6.png</file>
+        <file>resource/Line8.png</file>
+        <file>resource/Line9.png</file>
+        <file>resource/Line10.png</file>
+        <file>resource/Line11.png</file>
+        <file>resource/logo.png</file>
+        <file>resource/OutStationTransfer.png</file>
+        <file>resource/Enter.png</file>
+        <file>resource/Quit.png</file>
+        <file>resource/RouteMap.png</file>
+        <file>resource/magnify.png</file>
+        <file>resource/reduce.png</file>
+        <file>resource/ReferenceOnly.png</file>
+        <file>resource/Cover.png</file>
+    </qresource>
+</RCC>

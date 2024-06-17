@@ -1,0 +1,14 @@
+debug/functionpage.o
+debug/main.o
+debug/mainwindow.o
+debug/routemap.o
+debug/routeplan.o
+debug/station.o
+debug/stationlist.o
+debug/qrc_res.o
+debug/moc_functionpage.o
+debug/moc_mainwindow.o
+debug/moc_routemap.o
+debug/moc_routeplan.o
+debug/moc_station.o
+debug/moc_stationlist.o

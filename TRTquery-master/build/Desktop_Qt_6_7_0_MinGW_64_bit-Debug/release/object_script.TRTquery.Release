@@ -1,0 +1,14 @@
+release/functionpage.o
+release/main.o
+release/mainwindow.o
+release/routemap.o
+release/routeplan.o
+release/station.o
+release/stationlist.o
+release/qrc_res.o
+release/moc_functionpage.o
+release/moc_mainwindow.o
+release/moc_routemap.o
+release/moc_routeplan.o
+release/moc_station.o
+release/moc_stationlist.o
